@@ -98,8 +98,8 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "사랑합니다~"
+  location         : "세종"
   email            :
   links:
     - label: "Email"
